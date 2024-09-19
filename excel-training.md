@@ -1,4 +1,4 @@
-# FTL DATA ANALYSIS MASTER CLASS - MICROSOFT EXCEL 201
+# DATA ANALYSIS MASTER CLASS - MICROSOFT EXCEL
 
 Hello there! You are on your way to becoming a professional Data Analyst. Let's get started! 
 
