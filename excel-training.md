@@ -27,7 +27,7 @@ Hello there! You are on your way to becoming a professional Data Analyst. Let's 
 
 ## What's the Goal of This Guide?
 
-People come to the Tax Foundation with all sorts of backgrounds and varying levels of experience. Not everyone is an Excel whiz. This guide is meant to go over the most commonly used Excel features for managing the datasets we work with.
+This guide is meant to go over the most commonly used Excel features for managing the datasets we work with.
 
 ### There is a Wrong Way and a Right Way to Excel
 
@@ -313,8 +313,6 @@ The default file used by Excel is the **XLSX** file. This filetype is best for p
 
 ### CSV
 
-For more and deeper info, check out [Microsoft's Excel help center][excel-docs]. For an hour-long presentation of Excel skills, see [this YouTube video](https://www.youtube.com/watch?v=0nbkaYsR94c).
-
 In almost all cases, you're saving the final file as a **comma separated values** file, or **CSV**. You will save the final CSV files separate from the WIP Excel files you used previously.
 
 A CSV is exactly what the name implies: values with commas in between, and line-breaks between rows. **This is the preferred format for final individual data tables** because it strips out all of Excel's magic and leaves an easy-to-use, platform-agnostic dataset. No formulas, no PivotTables, no number formats, no font formats, not even separate worksheets. CSV is clean and simple.
@@ -351,3 +349,6 @@ Because saving as CSV means losing all of the special Excel magic in the file, E
 [countifs]: https://support.office.com/en-us/article/COUNTIFS-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842?ui=en-US&rs=en-US&ad=US
 [sumif]: https://support.office.com/en-us/article/SUMIF-function-169b8c99-c05c-4483-a712-1697a653039b?ui=en-US&rs=en-US&ad=US
 [sumifs]: https://support.office.com/en-us/article/SUMIFS-function-c9e748f5-7ea7-455d-9406-611cebce642b?ui=en-US&rs=en-US&ad=US
+
+
+
