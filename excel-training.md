@@ -1,6 +1,6 @@
 # FTL DATA ANALYSIS MASTER CLASS - MICROSOFT EXCEL 201
 
-This training course is designed for incoming interns, but can serve as a handy refresher for any person looking to up their Microsoft Excel game. For more and deeper info, check out [Microsoft's Excel help center][excel-docs]. For an hour-long presentation of Excel skills, see [this YouTube video](https://www.youtube.com/watch?v=0nbkaYsR94c).
+Hello there! You are on your way to becoming a professional Data Analyst. Let's get started! 
 
 ## Table of Contents
 
@@ -312,6 +312,8 @@ But this section isn't just a reminder to save! Now that you've wrangled your da
 The default file used by Excel is the **XLSX** file. This filetype is best for preserving constructs that help you clean your data, such as formulas and PivotTables. **Using XLSX is best while the data you're cleaning is a work-in-progress.**
 
 ### CSV
+
+For more and deeper info, check out [Microsoft's Excel help center][excel-docs]. For an hour-long presentation of Excel skills, see [this YouTube video](https://www.youtube.com/watch?v=0nbkaYsR94c).
 
 In almost all cases, you're saving the final file as a **comma separated values** file, or **CSV**. You will save the final CSV files separate from the WIP Excel files you used previously.
 
